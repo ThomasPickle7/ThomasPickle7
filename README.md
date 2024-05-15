@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThomasPickle7
-- 👀 I’m interested in embedded systems, ML, LAN
+- 👀 I’m interested in embedded systems, ML, Wireless Systems
 - 🌱 I’m currently learning C, Python, Java
 - 📫 How to reach me tapickell03@gmail.com
 - 😄 Pronouns: he/him
