@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @ThomasPickle7
 - 👀 I’m interested in embedded systems, ML, Wireless Systems
-- 🌱 I’m currently learning C, Python, Java
-- 📫 How to reach me tapickell03@gmail.com
+- Proficient In C, Python, Java, Verilog
+- LEarning SQL, C++, Rust
+- 📫 How to reach me: tapickell03@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I can count to at least 7
+- ⚡ Fun fact: Guinness World Records lists the largest snowflakes as having fallen during a storm in January 1887 at Fort Keogh, in Montana. A rancher nearby, the book says, called them “larger than milk pans” and measured one at 15 inches wide.
 
 <!---
 ThomasPickle7/ThomasPickle7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
